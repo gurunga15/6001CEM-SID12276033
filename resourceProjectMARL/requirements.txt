@@ -1,0 +1,10 @@
+numpy>=1.26.0
+gymnasium>=1.0.0
+ray[rllib]>=2.4.0
+matplotlib>=3.5.0
+PyQt6>=6.8.0
+pandas>=1.4.0
+tensorflow>=2.14.0  # Required for TensorBoard
+torch>=2.2.0
+seaborn>=0.13.0
+pettingzoo>=1.22.0  # Optional, for compatibility with other multi-agent frameworks 
