@@ -17,7 +17,9 @@ This project implements a multi-agent reinforcement learning environment for res
 
 - Python 3.8 or newer
 - PyQt6 (for GUI visualisation)
-- Ray/RLlib (for reinforcement learning)
+- Ray/RLlib (for reinforcement learning scalability)
+- PyTorch (AI backend)
+- Gymnasium (Framework)
 
 ### With pip
 
